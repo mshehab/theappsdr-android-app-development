@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Assignment08</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="submit_button_label">Submit</string>
+    <string name="back_button_label">Back</string>
+    <string name="logout_button_label">Logout</string>
+    <string name="create_account_label">Create New Account</string>
+    <string name="enter_email_label">Enter Email</string>
+    <string name="enter_name_label">Enter Full Name</string>
+    <string name="enter_password_label">Enter Password</string>
+    <string name="enter_phone_label">Enter Phone Number</string>
+    <string name="phone_numbers_label">Phone Numbers</string>
+
+    <string name="type_label">Type:</string>
+    <string name="phone_type_cell">Cell</string>
+    <string name="phone_type_home">Home</string>
+    <string name="phone_type_work">Work</string>
+    <string name="phone_type_other">Other</string>
+
+
+</resources>

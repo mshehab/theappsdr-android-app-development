@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Assessment02" parent="Theme.Material3.Light">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+         <item name="colorSurface">@color/colorPrimary</item>
+        <item name="colorOnSurface">@color/white</item>
+
+        <item name="actionMenuTextColor">@color/white</item>
+
+
+    </style>
+
+
+    <style name="Theme.Assessment02" parent="Base.Theme.Assessment02" />
+</resources>
