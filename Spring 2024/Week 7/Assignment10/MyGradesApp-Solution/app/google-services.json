@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711388793541",
+    "project_id": "fir-demo-f6ab9",
+    "storage_bucket": "fir-demo-f6ab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711388793541:android:1e94b02a09882b47057eac",
+        "android_client_info": {
+          "package_name": "edu.uncc.gradesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkgXTJ5YvnL8SJ3Lvkb3gcUTPDW-67syQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

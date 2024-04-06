@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1009212806609",
+    "project_id": "fir-demoapp-e7c10",
+    "storage_bucket": "fir-demoapp-e7c10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009212806609:android:df3c9ea4ab9ee80e0abcf0",
+        "android_client_info": {
+          "package_name": "edu.uncc.assignment099"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLwX6CCKyIIuD45VY6lIqrZcNn-LZ0-E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009212806609:android:23fca9e5829543e20abcf0",
+        "android_client_info": {
+          "package_name": "edu.uncc.gradesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLwX6CCKyIIuD45VY6lIqrZcNn-LZ0-E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
