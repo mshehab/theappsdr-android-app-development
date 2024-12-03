@@ -70,6 +70,8 @@ public class AddGradeFragment extends Fragment {
                 } else {
                     // ready to create a Grade object..
                     //the call mListener.onAddGrade(grade);
+                    Grade grade = new Grade(selectedCourse, selectedSemester, selectedLetterGrade);
+                    mListener.onAddGrade(grade);
                 }
             }
         });
